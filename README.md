@@ -1,1 +1,1 @@
-https://github.com/SkromnayaDeffchonka/posmotri-v-okno-ad # Активация workflow
+https://github.com/leiv7/posmotri-v-okno-ad # Активация workflow
